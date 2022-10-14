@@ -1,0 +1,35 @@
+.UserInfo img {
+  /* border-radius: 50%; */
+  width: 100px;
+  height: 80px;
+
+}
+
+.Comment {
+  background-color: aqua;
+  
+}
+
+/* .Comment-second {
+  background-color: bisque;
+} */
+
+.comment-first {
+background-color: #ff7f50;
+box-shadow: 5px 5px 5px 0px #000000, 5px 17px 42px 26px rgba(0,0,0,0);
+  margin: 0 auto;
+  padding: 5px;
+  
+}
+
+.Comment-text {
+background-color: #ff7f50;
+  display: inline-block;
+box-shadow: 5px 5px 5px 0px #000000, 5px 17px 42px 26px rgba(0,0,0,0);
+  width: 80px;
+  height: 100px;
+  padding: 25px;
+  gap: 10px;
+  margin-top: 10px;
+
+}
